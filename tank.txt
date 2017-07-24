@@ -1,0 +1,4 @@
+code, type, amount_in_inventory, price
+1, Regular, 4584.422110552762, 1.99
+2, Mid-Grade, 4803.231131502926, 2.06
+3, Premium, 4896.363636363635, 2.2
